@@ -1,0 +1,3 @@
+([('ben_g_cz',
+   '/Users/xkreuzz/Coding/Project_Benevolent_God/Executable/CZ/dist/ben_g_cz',
+   'EXECUTABLE')],)
